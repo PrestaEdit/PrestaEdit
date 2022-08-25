@@ -1,16 +1,17 @@
-### Hi there 👋
+And here we are.
 
-<!--
-**PrestaEdit/PrestaEdit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A little bit of history
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2010, August : My start with PrestaShop was made.
+- 2012, May : I made a soft called "PrestaEdit" to manage a PrestaShop project as student project.
+- 2012, August : the paper "PrestaShop, aspects techniques" is published in the _PhpSolution_ magazine.
+- 2012, September : the paper "PrestaShop 1.5 : tour d'horizons et aspects techniques" is published in the _PhpSolution_ magazine.
+- 2012, November : PrestaShop is now on GitHub. And my first pull requests are done the same time. (As @kpodemski, my first one, the https://github.com/PrestaShop/PrestaShop/pull/2/, was wrong :D)
+- 2012, December : first (and only one before moving to GitHub) external contributor to the french documentation of the 1.5 version. About this : I could manage to make some captures, still having the credentials.
+- 2013, April : my first big pull request at this time, not merged but the one that make me create modules after it. https://github.com/PrestaShop/PrestaShop/pull/90
+- 2013, May : The "PrestaShop s'envole sur GitHub" blog post was made on PrestaShop blog with an interver of me as contributor.
+- 2015, June : winner of the PrestaShop Awards "Contributor Favorite, Most line of code modified".
+- 2015, July : First PrestaShop Ambassador.
+- 2015, August : Joining the Presta-Module team as module developper.
+- 2019, January : Quit the Ambassador program due to internal change and I assume that I wasn't able to stay at this role at this time.
+- 2022, June : The contributor intervew was publish on the Build blog.
