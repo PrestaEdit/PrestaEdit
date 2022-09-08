@@ -15,3 +15,7 @@ And here we are.
 - 2015, August : Joining the Presta-Module team as module developper.
 - 2019, January : Quit the Ambassador program due to internal change and I assume that I wasn't able to stay at this role at this time.
 - 2022, June : The contributor intervew was publish on the Build blog.
+
+## Stats
+
+![PrestaEdit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrestaEdit&show_icons=true&theme=dark&include_all_commits=1)
