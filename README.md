@@ -15,8 +15,11 @@ And here we are.
 - 2015, August : Joining the Presta-Module team as module developper.
 - 2019, January : Quit the Ambassador program due to internal change and I assume that I wasn't able to stay at this role at this time.
 - 2022, June : The contributor intervew was publish on the Build blog.
-- 2023, mid-January : I become a Lead developper into a PrestaShop agency.
-- 2023, Febuary : The book "Développez avec PHP pour PrestaShop" is released ! It's a french book [available here](https://www.editions-eni.fr/livre/developpez-avec-php-pour-prestashop-architecture-personnalisation-themes-et-conception-de-modules-9782409038600).
+- **2023**, mid-January : I become a **Lead developper** into a PrestaShop agency.
+- **2023**, Febuary : The book **"Développez avec PHP pour PrestaShop"** is released ! It's a french book [available here](https://www.editions-eni.fr/livre/developpez-avec-php-pour-prestashop-architecture-personnalisation-themes-et-conception-de-modules-9782409038600).
+
+![php_prestashop_livre3d_2 copie](https://user-images.githubusercontent.com/2631425/236490305-4806631c-3fd9-4191-ae0c-a48c12226555.png)
+
 
 ## Stats
 
